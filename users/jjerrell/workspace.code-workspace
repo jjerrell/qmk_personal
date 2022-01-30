@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../.."
+        },
+        {
+            "path": "../../keyboards/moonlander"
+        },
+        {
+            "path": "../../layouts/community/ortho_4x12"
+        },
+        {
+            "path": "../../layouts/community/ergodox"
+        },
+        {
+            "path": "."
+        }
+    ]
+}
