@@ -130,7 +130,7 @@
         XXXXXXX,     k11,     k12,     k13,     k14,     k15, XXXXXXX,   XXXXXXX, k71,     k72,     k73,     k74,     k75,     XXXXXXX,      \
         XXXXXXX,     k21,     k22,     k23,     k24,     k25, XXXXXXX,   XXXXXXX, k81,     k82,     k83,     k84,     k85,     XXXXXXX,      \
         KC_LSFT,     k31,     k32,     k33,     k34,     k35,                     k91,     k92,     k93,     k94,     k95,     KC_RSFT,      \
-   MO(_SPECIAL),     k41,     k42,     k43,     k44,        TO(_GAME),   XXXXXXX,          ka2,     ka3,     ka4,     ka5,     MO(_SPECIAL), \
+   MO(_SPECIAL),     k41,     k42,     k43,     k44,          XXXXXXX,   XXXXXXX,          ka2,     ka3,     ka4,     ka5,     MO(_SPECIAL), \
                            LT(_LOWER, KC_SPC),HYPR_T(KC_BSPC),KC_LEAD,   KC_CCCV,SFT_T(KC_TAB),LT(_RAISE, KC_ENT)                            )
 
 #   define WRAPPER_moonlander_mods( \
