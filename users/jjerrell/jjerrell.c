@@ -41,7 +41,7 @@ __attribute__((weak)) void leader_scan_secrets(void) {}
                 SEND_STRING(SS_LGUI("b"));
             }
 
-            SEQ_TWO_KEYS(KC_B, KC_R)) {
+            SEQ_TWO_KEYS(KC_B, KC_R) {
                 SEND_STRING(SS_LSFT(SS_LGUI("r")));
             }
 
